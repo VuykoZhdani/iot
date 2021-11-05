@@ -1,0 +1,9 @@
+Чи є рядок капсом?
+Створіть метод is_uppercase (), що перевіряє, чи є рядок ALL CAPS. Наприклад:
+is_uppercase ("c") == false
+is_uppercase ("C") == true
+is_uppercase ("") == true
+is_uppercase("hello I AM DONALD") == false
+is_uppercase("HELLO I AM DONALD") == true
+is_uppercase("ACSKLDFJSgSKLDFJSKLDFJ") == false
+is_uppercase("ACSKLDFJSGSKLDFJSKLDFJ") == true
